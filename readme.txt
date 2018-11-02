@@ -4,3 +4,4 @@ learning git is interesting
 revision is important
 try to understand how git diff works: git diff compares the files herberged in working directory and in stage of repository.
 diff compares files in the working directory and repository
+now we created a dev branch
